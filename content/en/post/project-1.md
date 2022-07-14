@@ -1,7 +1,7 @@
 ---
 date: 2020-04-09
 description: "A tool that estimates data science salary"
-featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
+featured_image: "/images/BMFanz.jpg"
 tags: ["scene"]
 title: "Project I: Data Science Salary Estimator"
 ---
