@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Protfolio on KaoHu</title>
+    <link>https://gohugo-theme-ananke.pages.dev/</link>
+    <description>Recent content in Data Science Protfolio on KaoHu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://gohugo-theme-ananke.pages.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project I: Data Science Salary Estimator</title>
+      <link>https://gohugo-theme-ananke.pages.dev/post/project-1/</link>
+      <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/post/project-1/</guid>
+      <description> Data Science Visualizations a description office description form b description description formspree.io description c description description description formspree.io </description>
+    </item>
+    
+    <item>
+      <title>Chapter II: pySpark</title>
+      <link>https://gohugo-theme-ananke.pages.dev/post/project-2/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/post/project-2/</guid>
+      <description>Databricks a description office description form b description description formspree.io description c description description description formspree.io Link to GitHub repository</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://gohugo-theme-ananke.pages.dev/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/about/</guid>
+      <description>Illustration from Victor Hugo et son temps (1881) The Hunchback of Notre-Dame (French: Notre-Dame de Paris) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://gohugo-theme-ananke.pages.dev/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/contact/</guid>
+      <description> Platform URL Youtube: Website: ddddddddddddddddddddddddddddddddddddddd LinkedIn: GitHub: </description>
+    </item>
+    
+  </channel>
+</rss>
